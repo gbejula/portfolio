@@ -85,10 +85,22 @@ button {
 
 #about-me p {
   text-align: justify;
+  font-size: 1.1rem;
+  line-height: 1.5;
 }
+
 
 #projects .projects {
   margin-bottom: 50px;
+}
+
+#projects a {
+  text-decoration: none;
+  color: rgb(84, 153, 218);
+}
+
+#projects a:hover {
+  color: rgb(10, 9, 117);
 }
 
 #contact {
