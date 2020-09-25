@@ -112,3 +112,12 @@ button {
   text-align: center;
   color: white;
 }
+
+#contact a {
+  color: #fff;
+  padding: .5rem;
+}
+
+#contact p {
+  padding: 1rem;
+}
