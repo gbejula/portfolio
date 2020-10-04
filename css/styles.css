@@ -1,4 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
 body {
+  font-family: "Lato", sans-serif;
   display: block;
   overflow-x: hidden;
 }
@@ -36,6 +39,10 @@ nav ul li a:hover {
   color: #683aa4;
 }
 
+.card:hover {
+  transform: scale(1.2);
+}
+
 section {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -63,7 +70,6 @@ button {
   transition: width 1s ease-out;
   width: 2px;
 } */
-
 
 #hero .col {
   justify-content: center;
@@ -103,7 +109,6 @@ button {
   line-height: 1.5;
 }
 
-
 #projects .projects {
   margin-bottom: 50px;
 }
@@ -130,7 +135,7 @@ button {
 
 #contact a {
   color: #fff;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 #contact p {
