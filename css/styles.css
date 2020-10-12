@@ -39,7 +39,7 @@ nav ul li a:hover {
   color: #683aa4;
 }
 
-.card:hover {
+.change:hover {
   transform: scale(1.2);
 }
 
