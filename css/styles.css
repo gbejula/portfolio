@@ -138,6 +138,10 @@ button {
   padding: 0.5rem;
 }
 
+#contact a:hover {
+  color: #685ff9;
+}
+
 #contact p {
   padding: 1rem;
 }
